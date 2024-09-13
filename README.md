@@ -83,8 +83,7 @@ function convert() {
     document.getElementById('result').innerText = `${amount} ${fromCurrency} = ${result} ${toCurrency}`;
 }
 ```
-**output:**
-![Uploading image.png…]()
+
 
 
 **Note:** For real-world applications, you would typically fetch live exchange rates from an API instead of using static rates.
