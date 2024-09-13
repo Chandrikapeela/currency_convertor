@@ -98,8 +98,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or issues, please contact [your email address].
+For any inquiries or issues, please contact peelachandrika@gmail.com
 
 ---
 
-Feel free to modify this README to suit the specifics of your project or preferences.
