@@ -19,7 +19,7 @@ To set up and run the Currency Converter application, follow these steps:
 
    You can download the source code as a ZIP file or clone the repository using Git:
    ```bash
-   git clone https://github.com/yourusername/currency-converter.git
+   git clone https://github.com/Chandrikapeela/currency_convertor.git
    ```
 
 2. **Navigate to the Project Directory**
